@@ -1,1 +1,2 @@
 # EPICS (HARVESTHUB: AI-DRIVEN AGRICULTURAL INSIGHTS)
+this is an ai project
