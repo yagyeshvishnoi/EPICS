@@ -2,5 +2,4 @@
 this is an ai project
 for following models
 crop detection
-i
-n
+and much more morre
