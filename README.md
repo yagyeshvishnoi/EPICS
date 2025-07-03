@@ -1,5 +1,3 @@
----
-
 # 🌾 Harvest Hub – AI-Driven Agricultural Insights
 
 **Harvest Hub** is a full-stack AI-powered web platform designed to help farmers make informed, data-driven agricultural decisions. By combining machine learning and computer vision techniques, the platform delivers real-time insights for:
