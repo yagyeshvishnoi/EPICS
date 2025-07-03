@@ -1,5 +1,3 @@
-Here's a polished and more professional version of your GitHub README that still maintains a genuine, approachable tone while improving clarity, formatting, and structure:
-
 ---
 
 # 🌾 Harvest Hub – AI-Driven Agricultural Insights
