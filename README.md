@@ -84,14 +84,34 @@ This project was developed as part of an academic initiative to explore how AI c
 
 ## 📸 Demo / Screenshots
 
-### 🏠 Home Page (Initial View)
-![Home Page](home_page_ref.jpg)
-
-### 🏠 Home Page (Alternate View)
-![Home Page 2](home_page_ref2.jpg)
-
-### 🌱 Crop Recommendation Result
-![Crop Recommendation](crop_recomm_ref.jpg)
+<table>
+  <tr>
+    <td align="center">
+      <strong>🏠 Home Page (Initial View)</strong><br/>
+      <img src="home_page_ref.jpg" alt="Home Page" width="300"/>
+    </td>
+    <td align="center">
+      <strong>🏠 Home Page (Alternate View)</strong><br/>
+      <img src="home_page_ref2.jpg" alt="Home Page 2" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>🌱 Crop Recommendation Result</strong><br/>
+      <img src="crop_recomm_ref.jpg" alt="Crop Recommendation" width="300"/>
+    </td>
+    <td align="center">
+      <strong>📈 Crop Yield Prediction</strong><br/>
+      <img src="crop_yield_ref.jpg" alt="Crop Yield" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>🍂 Plant Disease Detection</strong><br/>
+      <img src="crop_diesease_ref.jpg" alt="Disease Detection" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
