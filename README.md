@@ -5,6 +5,7 @@
 * ✅ **Crop Recommendation**
 * 📈 **Crop Yield Prediction**
 * 🍂 **Plant Disease Detection**
+  Live demo link : https://frontend-ankits-projects-4916b64e.vercel.app/
 
 ---
 
